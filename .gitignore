@@ -1,0 +1,17 @@
+# Virtual Environment & folder bawaan venv
+venv/
+.venv/
+env/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Konfigurasi & data sensitif
+.env
+.DS_Store
+Thumbs.db
