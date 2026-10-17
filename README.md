@@ -5,7 +5,7 @@ Repository ini berisi kumpulan tugas mata kuliah **Pengolahan Citra dan Video (P
 ## 👤 Identitas
 
 - **Nama:** Sarah Shafira Maulida
-- **Nama:** 5024241035
+- **NRP:** 5024241035
 - **Mata Kuliah:** Pengolahan Citra dan Video
 - **Bahasa:** Python
 - **Library:** OpenCV, NumPy
