@@ -2,10 +2,12 @@
 venv/
 .venv/
 env/
+menv/
 Lib/
 Scripts/
 share/
 pyvenv.cfg
+
 
 # Cache Python
 __pycache__/
